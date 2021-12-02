@@ -1,6 +1,5 @@
-# Project Title
+# Inertial measurement unit (IMU) for position tracking
 
-Inertial measurement unit (IMU) for position tracking
 Analytical side 
 
 ## Description
